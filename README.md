@@ -1,2 +1,1 @@
-# calcolatrice-v3
-calcolatrice
+# calcolatrice
